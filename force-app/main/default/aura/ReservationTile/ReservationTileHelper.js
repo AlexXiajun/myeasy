@@ -1,7 +1,7 @@
 ({
     sendObjectEvent : function(component, reservation) 
     {
-        var selectEvt = $A.get("e.c:selectObject"); 
+        var selectEvt = $A.get("e.c:SelectObject"); 
         
         selectEvt.setParams({
             "object": reservation, 
