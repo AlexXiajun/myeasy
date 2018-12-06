@@ -36,10 +36,10 @@
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 480,
-            "modifiedTime": 1544065597128,
-            "changeTime": 1544065597128,
-            "contentHash": "068dbdacbfa1b8bcbf00c9e2b8709c007893e976"
+            "size": 512,
+            "modifiedTime": 1544075792661,
+            "changeTime": 1544075792661,
+            "contentHash": "aecbfba1ecc32fd004fb14ea896a60af1b85b207"
         }
     ],
     [
@@ -49,10 +49,10 @@
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 288,
-            "modifiedTime": 1544065596974,
-            "changeTime": 1544065596974,
-            "contentHash": "851c6e7d467eff58c0715d7fed0621e70e004d44"
+            "size": 736,
+            "modifiedTime": 1544075792643,
+            "changeTime": 1544075792643,
+            "contentHash": "dfe8ae886c0cfbf3ad712f9aad72e67413245536"
         }
     ],
     [
@@ -662,10 +662,10 @@
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/profiles/Admin.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 25442,
-            "modifiedTime": 1544065597076,
-            "changeTime": 1544065597076,
-            "contentHash": "43b15dc89b188efb6b78fdd93acb09b333178464"
+            "size": 25438,
+            "modifiedTime": 1544075792782,
+            "changeTime": 1544075792782,
+            "contentHash": "ff394a2b01977ab4d5036a7ac51d3de6ece55573"
         }
     ],
     [
@@ -675,10 +675,10 @@
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 10926,
-            "modifiedTime": 1544065597099,
-            "changeTime": 1544065597099,
-            "contentHash": "db3115691e33a8fbab781f2a577653c6610f34c0"
+            "size": 10922,
+            "modifiedTime": 1544075792828,
+            "changeTime": 1544075792828,
+            "contentHash": "db4687d6cd435ce6fae3722e828d769a9c19f3c4"
         }
     ],
     [
@@ -688,10 +688,10 @@
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 11262,
-            "modifiedTime": 1544065597115,
-            "changeTime": 1544065597115,
-            "contentHash": "ea36f49014154ef6f4cf555b2e0621f378717729"
+            "size": 11258,
+            "modifiedTime": 1544075792858,
+            "changeTime": 1544075792858,
+            "contentHash": "c57215d13e3855808473d213b7030a0227283cff"
         }
     ],
     [
@@ -701,10 +701,10 @@
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 10922,
-            "modifiedTime": 1544065597126,
-            "changeTime": 1544065597126,
-            "contentHash": "94b0de821825dea33e2855a0ed6acb8e017e6286"
+            "size": 10918,
+            "modifiedTime": 1544075792888,
+            "changeTime": 1544075792888,
+            "contentHash": "5440b0e3d00fde9e53feed81c75e61f152fc13ad"
         }
     ],
     [
@@ -896,10 +896,10 @@
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/tabs",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 192,
-            "modifiedTime": 1544065596982,
-            "changeTime": 1544065596982,
-            "contentHash": "03f0b01577c78aacd146f5f12f88a3b847bbd931"
+            "size": 224,
+            "modifiedTime": 1544075792649,
+            "changeTime": 1544075792649,
+            "contentHash": "219b56b2d2cb9da1ef11c7b970f80f5d65c05bb9"
         }
     ],
     [
@@ -1165,14 +1165,14 @@
     [
         "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/classes",
         {
-            "state": "u",
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 256,
             "modifiedTime": 1544065596990,
             "changeTime": 1544065596990,
-            "contentHash": "ed0126cebf53d366aa01917da48d85f0365a06cf"
+            "contentHash": "ed0126cebf53d366aa01917da48d85f0365a06cf",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1191,27 +1191,27 @@
     [
         "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/CustomerTile/CustomerTile.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/CustomerTile/CustomerTile.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1544065596955,
             "changeTime": 1544065596955,
-            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/CustomerTile/CustomerTileHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/CustomerTile/CustomerTileHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 658,
             "modifiedTime": 1544065596957,
             "changeTime": 1544065596957,
-            "contentHash": "92e20e8a2f341b6275714405ced39bcc162be0e2"
+            "contentHash": "92e20e8a2f341b6275714405ced39bcc162be0e2",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1221,439 +1221,439 @@
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/CustomerTile/CustomerTile.cmp",
             "isDirectory": false,
             "isMetadataFile": false,
-            "size": 1600,
-            "modifiedTime": 1544065596958,
-            "changeTime": 1544065596958,
-            "contentHash": "7368b83da99efba171114d33f02adb117a95586c"
+            "size": 1590,
+            "modifiedTime": 1544075792632,
+            "changeTime": 1544075792632,
+            "contentHash": "cf53aa09269d6f61dbd90ca8fc9156d1a4b17839"
         }
     ],
     [
         "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/CustomerTile/CustomerTileController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/CustomerTile/CustomerTileController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1311,
             "modifiedTime": 1544065596959,
             "changeTime": 1544065596959,
-            "contentHash": "f5a4c28fef9facaffc87de7a20db07fa68d2ba0a"
+            "contentHash": "f5a4c28fef9facaffc87de7a20db07fa68d2ba0a",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/CustomerDetails/CustomerDetails.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/CustomerDetails/CustomerDetails.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1544065596961,
             "changeTime": 1544065596961,
-            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/CustomerDetails/CustomerDetails.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/CustomerDetails/CustomerDetails.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 4282,
             "modifiedTime": 1544065596961,
             "changeTime": 1544065596961,
-            "contentHash": "1688a10b011121fac5c0455700fa45d6956fc310"
+            "contentHash": "1688a10b011121fac5c0455700fa45d6956fc310",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/CustomerDetails/CustomerDetails.design",
         {
-            "state": "u",
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/CustomerDetails/CustomerDetails.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 471,
             "modifiedTime": 1544065596961,
             "changeTime": 1544065596961,
-            "contentHash": "2465c24ffc15a2d566040b5c5af8bd51c8b3d804"
+            "contentHash": "2465c24ffc15a2d566040b5c5af8bd51c8b3d804",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/CustomerDetails/CustomerDetailsHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/CustomerDetails/CustomerDetailsHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 741,
             "modifiedTime": 1544065596962,
             "changeTime": 1544065596962,
-            "contentHash": "f7383dfa589a36182d7021e74a45c6c5d9b7a9a1"
+            "contentHash": "f7383dfa589a36182d7021e74a45c6c5d9b7a9a1",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/CustomerDetails/CustomerDetailsController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/CustomerDetails/CustomerDetailsController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1818,
             "modifiedTime": 1544065596963,
             "changeTime": 1544065596963,
-            "contentHash": "f5235c3b6294a936c822059c3c2f2cd73d66f88f"
+            "contentHash": "f5235c3b6294a936c822059c3c2f2cd73d66f88f",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/CustomerList/CustomerList.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/CustomerList/CustomerList.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1544065596964,
             "changeTime": 1544065596964,
-            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/CustomerList/CustomerListController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/CustomerList/CustomerListController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 519,
             "modifiedTime": 1544065596964,
             "changeTime": 1544065596964,
-            "contentHash": "2b8481c25e8e6366740ccd7d96c553e4ef8a81f3"
+            "contentHash": "2b8481c25e8e6366740ccd7d96c553e4ef8a81f3",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/CustomerList/CustomerList.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/CustomerList/CustomerList.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 724,
             "modifiedTime": 1544065596964,
             "changeTime": 1544065596964,
-            "contentHash": "a51a9afeb9661ae4f2249afb661ef15f24d8ab30"
+            "contentHash": "a51a9afeb9661ae4f2249afb661ef15f24d8ab30",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/CustomerList/CustomerListHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/CustomerList/CustomerListHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 368,
             "modifiedTime": 1544065596965,
             "changeTime": 1544065596965,
-            "contentHash": "f199dea07c23eee1dac3d40025f53ee36e0c2c93"
+            "contentHash": "f199dea07c23eee1dac3d40025f53ee36e0c2c93",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/CustomerList/CustomerList.design",
         {
-            "state": "u",
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/CustomerList/CustomerList.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 186,
             "modifiedTime": 1544065596965,
             "changeTime": 1544065596965,
-            "contentHash": "3c5e3425150d89b530acb0ce30a2e09027678127"
+            "contentHash": "3c5e3425150d89b530acb0ce30a2e09027678127",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/MarketService/MarketService.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/MarketService/MarketService.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1544065596966,
             "changeTime": 1544065596966,
-            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/MarketService/MarketServiceController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/MarketService/MarketServiceController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1126,
             "modifiedTime": 1544065596966,
             "changeTime": 1544065596966,
-            "contentHash": "3553bd6559b4a5422a9b74e65bc910ffa8534570"
+            "contentHash": "3553bd6559b4a5422a9b74e65bc910ffa8534570",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/MarketService/MarketService.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/MarketService/MarketService.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 516,
             "modifiedTime": 1544065596967,
             "changeTime": 1544065596967,
-            "contentHash": "4def6e020aa71d85a923734417564db75bb636de"
+            "contentHash": "4def6e020aa71d85a923734417564db75bb636de",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/ReservationHelper/ReservationHelper.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/ReservationHelper/ReservationHelper.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1544065596968,
             "changeTime": 1544065596968,
-            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/ReservationHelper/ReservationHelper.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/ReservationHelper/ReservationHelper.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1078,
             "modifiedTime": 1544065596968,
             "changeTime": 1544065596968,
-            "contentHash": "15ede58d67ad69fea72a952988df6483eff62bc9"
+            "contentHash": "15ede58d67ad69fea72a952988df6483eff62bc9",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/ReservationHelper/ReservationHelperHelper.js",
         {
-            "state": "u",
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/ReservationHelper/ReservationHelperHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 944,
             "modifiedTime": 1544065596969,
             "changeTime": 1544065596969,
-            "contentHash": "bbf762d7f0862419cdb56377f63c85da150d6b95"
+            "contentHash": "bbf762d7f0862419cdb56377f63c85da150d6b95",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/ReservationHelper/ReservationHelperController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/ReservationHelper/ReservationHelperController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1310,
             "modifiedTime": 1544065596970,
             "changeTime": 1544065596970,
-            "contentHash": "35bab6e1ad9701cb233537652997e04be890f67f"
+            "contentHash": "35bab6e1ad9701cb233537652997e04be890f67f",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/CustomerService/CustomerService.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/CustomerService/CustomerService.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1544065596972,
             "changeTime": 1544065596972,
-            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/CustomerService/CustomerServiceController.js",
         {
-            "state": "u",
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/CustomerService/CustomerServiceController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 618,
             "modifiedTime": 1544065596972,
             "changeTime": 1544065596972,
-            "contentHash": "7bf90569ad9c73ab0411a9f32e981d44fb81c846"
+            "contentHash": "7bf90569ad9c73ab0411a9f32e981d44fb81c846",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/CustomerService/CustomerService.cmp",
         {
-            "state": "u",
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/CustomerService/CustomerService.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 359,
             "modifiedTime": 1544065596973,
             "changeTime": 1544065596973,
-            "contentHash": "7fe25240e8008d11e17cbaadb07d398e09aa1f89"
+            "contentHash": "7fe25240e8008d11e17cbaadb07d398e09aa1f89",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/CustomerListHarnessApp/CustomerListHarnessApp.app-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/CustomerListHarnessApp/CustomerListHarnessApp.app-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1544065596974,
             "changeTime": 1544065596974,
-            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/CustomerListHarnessApp/CustomerListHarnessApp.app",
         {
-            "state": "u",
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/CustomerListHarnessApp/CustomerListHarnessApp.app",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 58,
             "modifiedTime": 1544065596975,
             "changeTime": 1544065596975,
-            "contentHash": "303bb6c32c9f8296ab627a551d98ec3748d06483"
+            "contentHash": "303bb6c32c9f8296ab627a551d98ec3748d06483",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/flexipages/Reservation_Manager.flexipage-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/flexipages/Reservation_Manager.flexipage-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 1153,
             "modifiedTime": 1544065596978,
             "changeTime": 1544065596978,
-            "contentHash": "e4354fde2cd40fbb16483a787e70cead3fe4ea40"
+            "contentHash": "e4354fde2cd40fbb16483a787e70cead3fe4ea40",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/flexipages/Space_Management_UtilityBar.flexipage-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/flexipages/Space_Management_UtilityBar.flexipage-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 511,
             "modifiedTime": 1544065596980,
             "changeTime": 1544065596980,
-            "contentHash": "f963b7216a591546c07b67944b731b1858928d7a"
+            "contentHash": "f963b7216a591546c07b67944b731b1858928d7a",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/tabs/Reservation_Manager.tab-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/tabs/Reservation_Manager.tab-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 331,
             "modifiedTime": 1544065596982,
             "changeTime": 1544065596982,
-            "contentHash": "ff59253ff62b1a4999153db863861be85d55911c"
+            "contentHash": "ff59253ff62b1a4999153db863861be85d55911c",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/applications/Space_Management.app-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/applications/Space_Management.app-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 1435,
             "modifiedTime": 1544065596987,
             "changeTime": 1544065596987,
-            "contentHash": "6055e175041f8d38287bef55be005b6e3b9ea275"
+            "contentHash": "6055e175041f8d38287bef55be005b6e3b9ea275",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/classes/MarketServices.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/classes/MarketServices.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
             "modifiedTime": 1544065596989,
             "changeTime": 1544065596989,
-            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/classes/MarketServices.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/classes/MarketServices.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 555,
             "modifiedTime": 1544065596990,
             "changeTime": 1544065596990,
-            "contentHash": "4ba9a2517582a1d46b776725adbf9ff814b50406"
+            "contentHash": "4ba9a2517582a1d46b776725adbf9ff814b50406",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/contentassets/space_logo.asset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/contentassets/space_logo.asset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 533,
             "modifiedTime": 1544065597129,
             "changeTime": 1544065597129,
-            "contentHash": "f353dd90e4ba54c7b3a996aec273fe489bfe81b2"
+            "contentHash": "f353dd90e4ba54c7b3a996aec273fe489bfe81b2",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/contentassets/space_logo.asset",
         {
-            "state": "u",
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/contentassets/space_logo.asset",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45227,
             "modifiedTime": 1544065597130,
             "changeTime": 1544065597130,
-            "contentHash": "54504bab322bf7871d51bcde05c64d91206e8058"
+            "contentHash": "54504bab322bf7871d51bcde05c64d91206e8058",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/contentassets/space_logo1.asset-meta.xml",
         {
-            "state": "u",
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/contentassets/space_logo1.asset-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 534,
             "modifiedTime": 1544065597132,
             "changeTime": 1544065597132,
-            "contentHash": "2222e95e66d8e8519d7bd237ec97a385806eb5ec"
+            "contentHash": "2222e95e66d8e8519d7bd237ec97a385806eb5ec",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/contentassets/space_logo1.asset",
         {
-            "state": "u",
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/contentassets/space_logo1.asset",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45227,
             "modifiedTime": 1544065597134,
             "changeTime": 1544065597134,
-            "contentHash": "54504bab322bf7871d51bcde05c64d91206e8058"
+            "contentHash": "54504bab322bf7871d51bcde05c64d91206e8058",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1663,88 +1663,88 @@
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/CustomerTile",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 192,
-            "modifiedTime": 1544065596959,
-            "changeTime": 1544065596959,
-            "contentHash": "39174303c45f3915538355650f5ce8086336aedd"
+            "size": 224,
+            "modifiedTime": 1544075792632,
+            "changeTime": 1544075792632,
+            "contentHash": "b6d18ec92a3954ead324f69e8aa37b0a10425cf7"
         }
     ],
     [
         "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/CustomerDetails",
         {
-            "state": "u",
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/CustomerDetails",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 224,
             "modifiedTime": 1544065596963,
             "changeTime": 1544065596963,
-            "contentHash": "f4802d21b574e40544db28c09ad62e1e2c24d221"
+            "contentHash": "f4802d21b574e40544db28c09ad62e1e2c24d221",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/CustomerList",
         {
-            "state": "u",
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/CustomerList",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 224,
             "modifiedTime": 1544065596965,
             "changeTime": 1544065596965,
-            "contentHash": "0c8ddccecd80fd149271288b09c3456ed1b44f3b"
+            "contentHash": "0c8ddccecd80fd149271288b09c3456ed1b44f3b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/MarketService",
         {
-            "state": "u",
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/MarketService",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 160,
             "modifiedTime": 1544065596967,
             "changeTime": 1544065596967,
-            "contentHash": "ac893357009c5bd09f2cb2ea5dbb74b5049255f0"
+            "contentHash": "ac893357009c5bd09f2cb2ea5dbb74b5049255f0",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/ReservationHelper",
         {
-            "state": "u",
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/ReservationHelper",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 192,
             "modifiedTime": 1544065596970,
             "changeTime": 1544065596970,
-            "contentHash": "1a4e9ab841042298f22cd9db1c4521213f88e31a"
+            "contentHash": "1a4e9ab841042298f22cd9db1c4521213f88e31a",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/CustomerService",
         {
-            "state": "u",
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/CustomerService",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 160,
             "modifiedTime": 1544065596973,
             "changeTime": 1544065596973,
-            "contentHash": "b85b77a7f56c47dd9b4340e1be5bb3a992224539"
+            "contentHash": "b85b77a7f56c47dd9b4340e1be5bb3a992224539",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/CustomerListHarnessApp",
         {
-            "state": "u",
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/CustomerListHarnessApp",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 128,
             "modifiedTime": 1544065596975,
             "changeTime": 1544065596975,
-            "contentHash": "64d3632dee8a276331205134bc15458c0e5c182a"
+            "contentHash": "64d3632dee8a276331205134bc15458c0e5c182a",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -1754,36 +1754,920 @@
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/flexipages",
             "isDirectory": true,
             "isMetadataFile": false,
-            "size": 128,
-            "modifiedTime": 1544065596980,
-            "changeTime": 1544065596980,
-            "contentHash": "39e1472f6b460f4fe240d4def5990e32a3498957"
+            "size": 160,
+            "modifiedTime": 1544075792646,
+            "changeTime": 1544075792646,
+            "contentHash": "f3d9119ea48e225db2ca7fa829a77897123dd2c1"
         }
     ],
     [
         "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/applications",
         {
-            "state": "u",
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/applications",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 96,
             "modifiedTime": 1544065596987,
             "changeTime": 1544065596987,
-            "contentHash": "158c976a36a87f116211b68b6b287be4ac5f9591"
+            "contentHash": "158c976a36a87f116211b68b6b287be4ac5f9591",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/contentassets",
         {
-            "state": "u",
             "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/contentassets",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 192,
             "modifiedTime": 1544065597134,
             "changeTime": 1544065597134,
-            "contentHash": "1b389f418e01a0a1b6d2c6c91ac9460e8a34a4d3"
+            "contentHash": "1b389f418e01a0a1b6d2c6c91ac9460e8a34a4d3",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/DefaultTokens/DefaultTokens.tokens-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/DefaultTokens/DefaultTokens.tokens-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1544075792595,
+            "changeTime": 1544075792595,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/DefaultTokens/DefaultTokens.tokens",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/DefaultTokens/DefaultTokens.tokens",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1544075792596,
+            "changeTime": 1544075792596,
+            "contentHash": "530fc21a2bf34902943101f610777e13c9368c3c"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/PillSelect/PillSelect.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/PillSelect/PillSelect.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1544075792598,
+            "changeTime": 1544075792598,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/PillSelect/PillSelect.evt",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/PillSelect/PillSelect.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 121,
+            "modifiedTime": 1544075792598,
+            "changeTime": 1544075792598,
+            "contentHash": "c8f7774d83a753a36fd1e9da8b265080e7228de9"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/GalleryTile/GalleryTile.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/GalleryTile/GalleryTile.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1544075792599,
+            "changeTime": 1544075792599,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/GalleryTile/GalleryTileController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/GalleryTile/GalleryTileController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1263,
+            "modifiedTime": 1544075792599,
+            "changeTime": 1544075792599,
+            "contentHash": "409861056a093e652dc359f0a5e4b7eb750253cb"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/GalleryTile/GalleryTile.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/GalleryTile/GalleryTile.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1581,
+            "modifiedTime": 1544075792600,
+            "changeTime": 1544075792600,
+            "contentHash": "503274b4ac974df132ab4f6733ace51a9437a28f"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/GalleryTile/GalleryTile.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/GalleryTile/GalleryTile.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 273,
+            "modifiedTime": 1544075792600,
+            "changeTime": 1544075792600,
+            "contentHash": "b439b7d13cd88c662ce25d2dad3a926d9fdbeb1a"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/GalleryTile/GalleryTileHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/GalleryTile/GalleryTileHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 634,
+            "modifiedTime": 1544075792601,
+            "changeTime": 1544075792601,
+            "contentHash": "c2517c2523642d377a077f1ade07648567369292"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/SelectObject/SelectObject.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/SelectObject/SelectObject.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1544075792602,
+            "changeTime": 1544075792602,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/SelectObject/SelectObject.evt",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/SelectObject/SelectObject.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 177,
+            "modifiedTime": 1544075792602,
+            "changeTime": 1544075792602,
+            "contentHash": "e3e6333dfbb5511848c476b369fc54ff8cb08ebb"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/OpenRecordAction/OpenRecordAction.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/OpenRecordAction/OpenRecordAction.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1544075792603,
+            "changeTime": 1544075792603,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/OpenRecordAction/OpenRecordActionController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/OpenRecordAction/OpenRecordActionController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 579,
+            "modifiedTime": 1544075792604,
+            "changeTime": 1544075792604,
+            "contentHash": "4429cdefd86da55ecd225ebceb13f0bfe1e345bd"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/OpenRecordAction/OpenRecordAction.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/OpenRecordAction/OpenRecordAction.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 257,
+            "modifiedTime": 1544075792604,
+            "changeTime": 1544075792604,
+            "contentHash": "90a0a90f404a466ddbe4c443f98a36e980416cfe"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/OpenRecordAction/OpenRecordAction.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/OpenRecordAction/OpenRecordAction.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1544075792605,
+            "changeTime": 1544075792605,
+            "contentHash": "71c611eef7647e56d00005513d8e014608317cef"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/ReservationList/ReservationList.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/ReservationList/ReservationList.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1544075792606,
+            "changeTime": 1544075792606,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/ReservationList/ReservationList.svg",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/ReservationList/ReservationList.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1485,
+            "modifiedTime": 1544075792607,
+            "changeTime": 1544075792607,
+            "contentHash": "b1f927dc99535690aaac0a03e799d5912796b619"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/ReservationList/ReservationListController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/ReservationList/ReservationListController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 318,
+            "modifiedTime": 1544075792607,
+            "changeTime": 1544075792607,
+            "contentHash": "5bcb3bc37a4d2826757edb16bd7ccdaa9bfa6a5b"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/ReservationList/ReservationList.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/ReservationList/ReservationList.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 741,
+            "modifiedTime": 1544075792608,
+            "changeTime": 1544075792608,
+            "contentHash": "60124a3d76dd068d1f4847c7d29688e186ea155e"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/SpaceDesigner/SpaceDesigner.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/SpaceDesigner/SpaceDesigner.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1544075792609,
+            "changeTime": 1544075792609,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/SpaceDesigner/SpaceDesignerController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/SpaceDesigner/SpaceDesignerController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1189,
+            "modifiedTime": 1544075792610,
+            "changeTime": 1544075792610,
+            "contentHash": "2fe419df142d6c832d0d06249abf05e26b802cd3"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/SpaceDesigner/SpaceDesigner.svg",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/SpaceDesigner/SpaceDesigner.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1307,
+            "modifiedTime": 1544075792611,
+            "changeTime": 1544075792611,
+            "contentHash": "cf57fd7c513e0a8773e4328fa713533b5a7f1208"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/SpaceDesigner/SpaceDesignerHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/SpaceDesigner/SpaceDesignerHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 804,
+            "modifiedTime": 1544075792612,
+            "changeTime": 1544075792612,
+            "contentHash": "ed1639c5a954290be1588e245a5007a21069e1d5"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/SpaceDesigner/SpaceDesigner.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/SpaceDesigner/SpaceDesigner.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 966,
+            "modifiedTime": 1544075792612,
+            "changeTime": 1544075792612,
+            "contentHash": "2cb20edbcb0e1b80ab1318649a5b2d2da6ea6265"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/ReservationTile/ReservationTile.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/ReservationTile/ReservationTile.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1544075792614,
+            "changeTime": 1544075792614,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/ReservationTile/ReservationTileController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/ReservationTile/ReservationTileController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 938,
+            "modifiedTime": 1544075792615,
+            "changeTime": 1544075792615,
+            "contentHash": "dd93b98cfdf5419c9f485aae1092f9010c3820e5"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/ReservationTile/ReservationTile.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/ReservationTile/ReservationTile.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3737,
+            "modifiedTime": 1544075792615,
+            "changeTime": 1544075792615,
+            "contentHash": "fc1bc996f883f7b40c789b91bab869499d10e3bb"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/ReservationTile/ReservationTile.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/ReservationTile/ReservationTile.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 37,
+            "modifiedTime": 1544075792616,
+            "changeTime": 1544075792616,
+            "contentHash": "d0840adc26bdefc45e4f8b1ca115367324a16255"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/ReservationTile/ReservationTileHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/ReservationTile/ReservationTileHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 860,
+            "modifiedTime": 1544075792617,
+            "changeTime": 1544075792617,
+            "contentHash": "f9a6f34bb74159d0c1afeae314385506fb2be1a1"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/SmartGallery/SmartGallery.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/SmartGallery/SmartGallery.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1544075792618,
+            "changeTime": 1544075792618,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/SmartGallery/SmartGalleryController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/SmartGallery/SmartGalleryController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1362,
+            "modifiedTime": 1544075792619,
+            "changeTime": 1544075792619,
+            "contentHash": "447866e499ee002b8fc526e999fc649712f2b838"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/SmartGallery/SmartGallery.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/SmartGallery/SmartGallery.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3601,
+            "modifiedTime": 1544075792620,
+            "changeTime": 1544075792620,
+            "contentHash": "d9495d9ff2bbbab4c215fb76506d470f4703778b"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/SmartGallery/SmartGallery.design",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/SmartGallery/SmartGallery.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 296,
+            "modifiedTime": 1544075792620,
+            "changeTime": 1544075792620,
+            "contentHash": "7080ad772626e9e7e00e51623554605f2d62a95f"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/SmartGallery/SmartGalleryHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/SmartGallery/SmartGalleryHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1167,
+            "modifiedTime": 1544075792621,
+            "changeTime": 1544075792621,
+            "contentHash": "6ccb802ed5d8a74051db09fe3f32b44a619b273d"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/Pill/Pill.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/Pill/Pill.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1544075792623,
+            "changeTime": 1544075792623,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/Pill/PillHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/Pill/PillHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 643,
+            "modifiedTime": 1544075792624,
+            "changeTime": 1544075792624,
+            "contentHash": "1ac21d303791e4108b26d531eea4c607fb66f215"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/Pill/PillController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/Pill/PillController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 355,
+            "modifiedTime": 1544075792625,
+            "changeTime": 1544075792625,
+            "contentHash": "afcef34e80d43c4530ec7f3d9c31560e12786f1f"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/Pill/Pill.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/Pill/Pill.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 560,
+            "modifiedTime": 1544075792625,
+            "changeTime": 1544075792625,
+            "contentHash": "266c47ec3e02835daff897111045fe415736e533"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/Pill/Pill.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/Pill/Pill.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 113,
+            "modifiedTime": 1544075792626,
+            "changeTime": 1544075792626,
+            "contentHash": "ea13cdb58cf2e8e30fb40c4dd768b2bf8a84f5df"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/CustomerTile/CustomerTile.css",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/CustomerTile/CustomerTile.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 37,
+            "modifiedTime": 1544075792629,
+            "changeTime": 1544075792629,
+            "contentHash": "d0840adc26bdefc45e4f8b1ca115367324a16255"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/PillTile/PillTile.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/PillTile/PillTile.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1544075792636,
+            "changeTime": 1544075792636,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/PillTile/PillTileHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/PillTile/PillTileHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 362,
+            "modifiedTime": 1544075792636,
+            "changeTime": 1544075792636,
+            "contentHash": "5404354314c8c9c6b3fb18d499c2e58402098c95"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/PillTile/PillTileController.js",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/PillTile/PillTileController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 647,
+            "modifiedTime": 1544075792637,
+            "changeTime": 1544075792637,
+            "contentHash": "c1d6d8c6714824ae19edcbda36951768abef6b91"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/PillTile/PillTile.cmp",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/PillTile/PillTile.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 709,
+            "modifiedTime": 1544075792638,
+            "changeTime": 1544075792638,
+            "contentHash": "42fbc587b52ecba5aede8152899045ae36fb902c"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/MuteTiles/MuteTiles.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/MuteTiles/MuteTiles.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1544075792639,
+            "changeTime": 1544075792639,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/MuteTiles/MuteTiles.evt",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/MuteTiles/MuteTiles.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 181,
+            "modifiedTime": 1544075792640,
+            "changeTime": 1544075792640,
+            "contentHash": "3c2a958917f01d4e5d49610e01c514e1c3a3ad8e"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/SelectChange/SelectChange.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/SelectChange/SelectChange.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1544075792641,
+            "changeTime": 1544075792641,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/SelectChange/SelectChange.evt",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/SelectChange/SelectChange.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 230,
+            "modifiedTime": 1544075792642,
+            "changeTime": 1544075792642,
+            "contentHash": "314091fa49c8c4f8c1a231416f0aa266c829a573"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/PillDeselect/PillDeselect.evt-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/PillDeselect/PillDeselect.evt-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1544075792643,
+            "changeTime": 1544075792643,
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/PillDeselect/PillDeselect.evt",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/PillDeselect/PillDeselect.evt",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 121,
+            "modifiedTime": 1544075792644,
+            "changeTime": 1544075792644,
+            "contentHash": "c8f7774d83a753a36fd1e9da8b265080e7228de9"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/flexipages/Spaces_Designer.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/flexipages/Spaces_Designer.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 714,
+            "modifiedTime": 1544075792647,
+            "changeTime": 1544075792647,
+            "contentHash": "ba73b74b8dbc28b4de4904d805388f66ab2b75c7"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/tabs/Spaces_Designer.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/tabs/Spaces_Designer.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 324,
+            "modifiedTime": 1544075792649,
+            "changeTime": 1544075792649,
+            "contentHash": "87b7fb3f6abd9582fface3885071153ce3cb4c50"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/flows/Create_Reservation.flow-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/flows/Create_Reservation.flow-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 11357,
+            "modifiedTime": 1544075792664,
+            "changeTime": 1544075792664,
+            "contentHash": "3b24f0ba6f182c376e2afb737b24e522ecb02bf9"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/DefaultTokens",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/DefaultTokens",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1544075792596,
+            "changeTime": 1544075792596,
+            "contentHash": "95b3cda651375ec988ee6d3f36e5307c9530fef3"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/PillSelect",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/PillSelect",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1544075792598,
+            "changeTime": 1544075792598,
+            "contentHash": "6b47084fb96ec13b740c55a6ddf61dc35cf217dd"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/GalleryTile",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/GalleryTile",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1544075792601,
+            "changeTime": 1544075792601,
+            "contentHash": "5c092baf8102faa6550fd466cb8ef57cf83622a8"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/SelectObject",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/SelectObject",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1544075792602,
+            "changeTime": 1544075792602,
+            "contentHash": "c0b8fad3a2cb32fd3d934b063ce8508ee41c430f"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/OpenRecordAction",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/OpenRecordAction",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1544075792604,
+            "changeTime": 1544075792604,
+            "contentHash": "1de97f8f25a434a078e244937da475ee0bdd4a12"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/ReservationList",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/ReservationList",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1544075792608,
+            "changeTime": 1544075792608,
+            "contentHash": "e707f9daced9b64e96ddb78ac867a4262b0d55ce"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/SpaceDesigner",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/SpaceDesigner",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1544075792612,
+            "changeTime": 1544075792612,
+            "contentHash": "1c77f84724e583db4c4d7bee9a27dc9b40131589"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/ReservationTile",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/ReservationTile",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1544075792617,
+            "changeTime": 1544075792617,
+            "contentHash": "3034839b381e79d87ee6f2573521dcf8eb51e451"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/SmartGallery",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/SmartGallery",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1544075792621,
+            "changeTime": 1544075792621,
+            "contentHash": "c3ac07a22212d523a598b5085f8af6ac6768bc4b"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/Pill",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/Pill",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 224,
+            "modifiedTime": 1544075792626,
+            "changeTime": 1544075792626,
+            "contentHash": "3ab23dce126e075bf5a0ab0a9ffc8160ba8e081f"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/PillTile",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/PillTile",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1544075792637,
+            "changeTime": 1544075792637,
+            "contentHash": "4dd83c43081f5226f28190cf2c807afcf1d911ea"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/MuteTiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/MuteTiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1544075792640,
+            "changeTime": 1544075792640,
+            "contentHash": "1f3886a749ac25a1e54ac3c21948f2a55d539179"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/SelectChange",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/SelectChange",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1544075792642,
+            "changeTime": 1544075792642,
+            "contentHash": "66a9e93a5ea845b900f7a4733c933faf51d8bb4a"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/PillDeselect",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/aura/PillDeselect",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1544075792644,
+            "changeTime": 1544075792644,
+            "contentHash": "30170a2f65029ac5c6d8580070f2766045a91c53"
+        }
+    ],
+    [
+        "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/flows",
+        {
+            "state": "u",
+            "sourcePath": "/Users/xiajun/Dev/easy-spaces/myeasy/force-app/main/default/flows",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1544075792664,
+            "changeTime": 1544075792664,
+            "contentHash": "c53bb997fcb74b4f8eb3633e5c25968e2429ba09"
         }
     ]
 ]

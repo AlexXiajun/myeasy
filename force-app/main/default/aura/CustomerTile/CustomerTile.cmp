@@ -5,8 +5,8 @@
     <aura:attribute name="muted" type="Boolean" default="false"/>
     
     <aura:registerEvent name="selectSObject" type="ltng:selectSObject"/>
-    <!--aura:registerEvent name="mute" type="c:muteTiles"/-->
-    <!--aura:handler event="c:muteTiles" action="{!c.checkMute}"/-->
+    <aura:registerEvent name="mute" type="c:MuteTiles"/>
+    <aura:handler event="c:MuteTiles" action="{!c.checkMute}"/>
     
     <div aura:id="tile" onclick="{!c.handleClick}" class="tile">
         
